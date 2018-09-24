@@ -1,0 +1,88 @@
+=head2 Sat Sep 22 14:49:14 2018: C<Module> L<DBI|DBI>
+
+=over 4
+
+=item *
+
+C<installed into: /media/manul/Install/perlproject/database_scripts/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.641>
+
+=item *
+
+C<EXE_FILES: dbilogstrip dbiprof dbiproxy>
+
+=back
+
+=head2 Sat Sep 22 15:21:27 2018: C<Module> L<Devel::CheckLib|Devel::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: /media/manul/Install/perlproject/database_scripts/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: bin/use-devel-checklib>
+
+=back
+
+=head2 Sat Sep 22 15:22:29 2018: C<Module> L<HDB|HDB>
+
+=over 4
+
+=item *
+
+C<installed into: /media/manul/Install/perlproject/database_scripts/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Sun Sep 23 07:51:59 2018: C<Module> L<Term::ReadKey|Term::ReadKey>
+
+=over 4
+
+=item *
+
+C<installed into: /media/manul/Install/perlproject/database_scripts/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
