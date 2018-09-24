@@ -12,3 +12,7 @@ For script running in local, use this command:
 
 	For check summary size of files
 		perl -Ilocal/lib/perl5 local/src/check_size_of_file.pl
+
+You can find my script hear in this repository:
+
+local/src/
